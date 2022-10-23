@@ -1,0 +1,11 @@
+aside {
+	background-color: rgb(12, 108, 242);
+	height: 100vh;
+	box-shadow: 0 2px 10px #777;
+	z-index: 1;
+}
+nav {
+	border-radius: 0!important;
+}
+.navbar-brand {color:#eeeeee;}
+.navbar-brand:hover {color:#ffffff;}
